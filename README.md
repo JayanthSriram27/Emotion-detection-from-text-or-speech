@@ -27,4 +27,4 @@ speech_to_text() function.
 “Positive” for 2,
 Sample Output
 
-![image](https://user-images.githubusercontent.com/56594538/147282758-67539db3-97a8-41d4-afd3-555438381907.png)
+![image](https://user-images.githubusercontent.com/56594538/147282920-9425a65d-3004-47ff-a248-d968becb205a.png)
