@@ -1,4 +1,4 @@
-# Emotion-detection-from-text-speech
+# Emotion-detection-from-text / speech
 
 ❖ Open Colab at Google Colab or Jupyter Notebook or Local iPYNB file Hosting Server.
 ❖ Load the tweet_emotions.csv (Dataset file) into the Colab at Google Colab or Jupyter
